@@ -70,9 +70,9 @@ page_sections:
   media_alignment: Right
   headline: Native CI/CD Integration
   slug: continuous
-  content: Our solution fits seamlessly into your existing CI/CD workflow.  Bloodhound
-    supports Github Actions, Bitbucket Pipelines and any other continuous deployment
-    tool.
+  content: Easily embed our unique git-centric tools into your existing development
+    processes.  We support any existing CI/CD workflow. Bloodhound supports Github
+    Actions, Bitbucket Pipelines and any other continuous deployment tool.
   media:
     image: ''
     alt_text: ''
