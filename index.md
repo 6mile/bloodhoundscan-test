@@ -65,6 +65,17 @@ page_sections:
     image: ''
     alt_text: ''
   headline: Apply guardrails uniformly
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Native CI/CD Integration
+  slug: continuous
+  content: Our solution fits seamlessly into your existing CI/CD workflow.  Bloodhound
+    supports Github Actions, Bitbucket Pipelines and any other continuous deployment
+    tool.
+  media:
+    image: ''
+    alt_text: ''
 - template: signup-bar
   block: cta-bar
   content: ''
