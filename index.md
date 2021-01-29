@@ -27,8 +27,8 @@ page_sections:
   content: The worlds first security platform built by developers by developers.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://hellhound.securestack.com
+    button_text: Scan Your App Now
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
