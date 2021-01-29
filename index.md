@@ -62,7 +62,7 @@ page_sections:
   content: Compare your development, staging and production environments to quickly
     find critical differences and suggests ways to fix high priority defects.
   media:
-    image: ''
+    image: "/uploads/2021/01/29/screen-shot-2021-01-29-at-8-44-45-pm.png"
     alt_text: ''
   headline: Apply guardrails uniformly
 - template: content-feature
