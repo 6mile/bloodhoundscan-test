@@ -24,7 +24,7 @@ page_sections:
   block: hero-2
   slug: features
   headline: Built by developers, for developers<br>
-  content: The worlds first security platform built by developers by developers.
+  content: Security tools have never been built for a developer audience.  Until now.
   cta:
     enabled: true
     url: https://hellhound.securestack.com
