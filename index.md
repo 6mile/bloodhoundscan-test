@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2021/01/29/securestack_word_bloodred-1.png"
+  logo: "/uploads/2021/01/29/securestack_word_bloodred-2.png"
   navigation:
   - link: "/"
     link_text: Ubuild
@@ -31,7 +31,7 @@ page_sections:
     button_text: Scan Your App Now
   image:
     image: "/uploads/2021/01/29/bloodhound_920x680-1.png"
-    alt_text: Product Shot
+    alt_text: Bloodhound Product Dog Image
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
