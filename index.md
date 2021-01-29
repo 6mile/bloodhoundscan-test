@@ -24,8 +24,8 @@ page_sections:
   block: hero-2
   slug: features
   headline: Built by developers, for developers<br>
-  content: Security tools have never been built for a developer audience.<br><br>Until
-    now.
+  content: Security tools have never been built for a developer audience.<br><strong>Until
+    now.</strong>
   cta:
     enabled: true
     url: https://hellhound.securestack.com
