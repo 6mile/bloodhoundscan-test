@@ -82,11 +82,13 @@ page_sections:
     Blocks and preview them as you go along.</p></li></ol>
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/2021/01/29/securestack_word_bloodred-2.png"
+  image: "/uploads/2021/01/29/securestack_word_bloodred-1.png"
   col_2: <a href="Find and fix vulnerabilities, fast. We identify security and scalability
     gaps in your web applications and offer ways to fix these gaps – without you needing
-    to become a security expert." title="Facebook">Facebook</a>
-  col_3: <a href="https://au.linkedin.com/company/securestack" title="LinkedIn">LinkedIn</a>
-  col_4: <a href="https://twitter.com/@securestackco" title="Twitter">Twitter</a>
+    to become a security expert." title="Facebook">Facebook</a><br><a href="https://twitter.com/@securestackco"
+    title="Twitter">Twitter</a><br><a href="https://au.linkedin.com/company/securestack"
+    title="LinkedIn">LinkedIn</a>
+  col_3: ''
+  col_4: ''
 
 ---
