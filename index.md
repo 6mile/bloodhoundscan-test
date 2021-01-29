@@ -48,10 +48,10 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  headline: Asset discovery and attack surface mapping
+  content: Find and fix vulnerabilities, fast. We identify security and scalability
+    gaps in your web applications and offer ways to fix these gaps – without you needing
+    to become a security expert.
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
