@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Bloodhound Scan<br>&lt;h4&gt;Powered by SecureStack&lt;/h4&gt;
+  headline: Bloodhound Scan<br>
   content: The worlds first security platform built by developers by developers.
   cta:
     enabled: true
