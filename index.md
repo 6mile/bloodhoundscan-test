@@ -80,8 +80,13 @@ page_sections:
     this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li><li><p>Add and customize the available
     Blocks and preview them as you go along.</p></li></ol>
-- template: simple-footer
-  block: footer-1
-  content: Made with ❤︎ in Canada
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/01/29/securestack_word_bloodred-2.png"
+  col_2: <a href="Find and fix vulnerabilities, fast. We identify security and scalability
+    gaps in your web applications and offer ways to fix these gaps – without you needing
+    to become a security expert." title="Facebook">Facebook</a>
+  col_3: <a href="https://au.linkedin.com/company/securestack" title="LinkedIn">LinkedIn</a>
+  col_4: <a href="https://twitter.com/@securestackco" title="Twitter">Twitter</a>
 
 ---
