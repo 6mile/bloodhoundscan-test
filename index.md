@@ -30,7 +30,7 @@ page_sections:
     url: https://hellhound.securestack.com
     button_text: Scan Your App Now
   image:
-    image: "/uploads/2021/01/29/bloodhound_920x680.png"
+    image: "/uploads/2021/01/29/bloodhound_920x680-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
