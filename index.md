@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
+  headline: Bloodhound Scan<br>Powered by <img src="/uploads/2021/01/29/securestack_word_bloodred.png">
   content: The worlds first security platform built by developers by developers.
   cta:
     enabled: true
