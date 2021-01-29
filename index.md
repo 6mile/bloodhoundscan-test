@@ -57,7 +57,7 @@ page_sections:
     alt_text: Customize Blocks
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   slug: Environments
   content: Compare your development, staging and production environments to quickly
     find critical differences and suggests ways to fix high priority defects.
