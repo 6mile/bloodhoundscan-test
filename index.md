@@ -38,7 +38,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: velocity
-  headline: Boost your <strong>development velocity</strong>
+  headline: "<strong>Dev accuracy </strong>without compromising<strong> dev velocity</strong><br>"
   content: Continuous improvement to help you achieve a faster time to business and
     shrink your app attack surface by up to 70%.
   media:
