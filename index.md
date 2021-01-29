@@ -53,7 +53,7 @@ page_sections:
     gaps in your web applications and offer ways to fix these gaps – without you needing
     to become a security expert.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2021/01/29/screen-shot-2021-01-29-at-8-10-52-pm.png"
     alt_text: Customize Blocks
 - template: signup-bar
   block: cta-bar
