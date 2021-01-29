@@ -33,18 +33,17 @@ page_sections:
   image:
     image: "/uploads/2021/01/29/bloodhound_920x680-1.png"
     alt_text: Bloodhound Product Dog Image
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  slug: velocity
+  headline: Boost your <strong>development velocity</strong>
+  content: Continuous improvement to help you achieve a faster time to business and
+    shrink your app attack surface by up to 70%.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2021/01/29/bloodhound_continuous_delivery_banner.png"
+    alt_text: Bloodhound Continuous Improvement
 - template: content-feature
   block: feature-1
   media_alignment: Right
