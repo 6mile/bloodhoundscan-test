@@ -23,7 +23,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: Bloodhound Scan<br>
+  headline: Built by developers, for developers<br>
   content: The worlds first security platform built by developers by developers.
   cta:
     enabled: true
