@@ -55,6 +55,10 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 - template: 1-column-text
   block: one-column-1
   slug: responsive
