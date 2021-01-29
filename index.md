@@ -74,7 +74,7 @@ page_sections:
     processes.  We support any existing CI/CD workflow. Bloodhound supports Github
     Actions, Bitbucket Pipelines and any other continuous deployment tool.
   media:
-    image: ''
+    image: "/uploads/2021/01/29/ci-cd-graphic.png"
     alt_text: ''
 - template: signup-bar
   block: cta-bar
