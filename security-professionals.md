@@ -34,6 +34,5 @@ page_sections:
     image: ''
     alt_text: ''
 personas: ''
-published: false
 
 ---
