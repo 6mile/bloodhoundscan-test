@@ -54,11 +54,6 @@ page_sections:
   media:
     image: "/uploads/2021/01/29/ci-cd-graphic.png"
     alt_text: ''
-- template: detail-content
-  block: text-1
-  headline: Forbes names us as one of the best cybersecurity startups to watch in
-    2021!
-  content: <h1><img src="/uploads/2021/01/30/forbes.png"></h1>
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -96,11 +91,16 @@ page_sections:
     title="LinkedIn">LinkedIn</a>
   col_3: ''
   col_4: ''
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2021/01/30/forbes.png"
-  slug: News
-  caption: Forbes names us as one of the best cybersecurity startups to watch in 2021!
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Forbes names us as one of the best cybersecurity startups to
+    watch in 2021!</strong>"
+  slug: Forbes
+  media:
+    image: "/uploads/2021/01/30/forbes.png"
+    alt_text: ''
+  content: ''
 menu:
   main:
     identifier: home
