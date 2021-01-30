@@ -22,8 +22,8 @@ page_sections:
   block: hero-2
   slug: features
   headline: Built by developers, for developers<br>
-  content: Security tools have never been built for a developer audience.<br><strong>Until
-    now.</strong>
+  content: Bloodhound identifies security and scalability gaps in your web applications
+    and offer ways to fix these gaps – without you needing to become a security expert.
   cta:
     enabled: true
     url: https://hellhound.securestack.com
