@@ -14,7 +14,7 @@ page_sections:
     button_text: Scan Now
 - template: hero-banner-w-image
   block: hero-2
-  background_image: ''
+  background_image: "/uploads/2021/01/29/bloodhound_only.png"
   image:
     image: ''
     alt_text: ''
