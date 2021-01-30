@@ -6,7 +6,9 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2021/01/29/securestack_word_bloodred-2.png"
-  navigation: []
+  navigation:
+  - link: https://securestack.com
+    link_text: SecureStack
   cta:
     url: https://hellhound.securestack.com
     button_text: Scan Now
