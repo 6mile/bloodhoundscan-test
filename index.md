@@ -47,7 +47,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Native CI/CD Integration
+  headline: Security &amp; availability insights with every git push
   slug: continuous
   content: Easily embed our unique git-centric tools into your existing development
     processes.  We support any existing CI/CD workflow. Bloodhound supports Github
