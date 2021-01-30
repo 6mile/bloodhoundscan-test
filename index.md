@@ -47,7 +47,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Security &amp; availability insights with every git push
+  headline: Insights with every git commit
   slug: continuous
   content: Easily embed our unique git-centric tools into your existing development
     processes.  We support any existing CI/CD workflow. Bloodhound supports Github
