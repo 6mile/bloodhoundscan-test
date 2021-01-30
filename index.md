@@ -56,6 +56,16 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
+  media_alignment: Left
+  headline: "<strong>Forbes names us as one of the best cybersecurity startups to
+    watch in 2021!</strong>"
+  slug: Forbes
+  media:
+    image: "/uploads/2021/01/30/forbes.png"
+    alt_text: ''
+  content: ''
+- template: content-feature
+  block: feature-1
   media_alignment: Right
   slug: assets
   headline: Asset discovery and attack surface mapping
@@ -91,16 +101,6 @@ page_sections:
     title="LinkedIn">LinkedIn</a>
   col_3: ''
   col_4: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: "<strong>Forbes names us as one of the best cybersecurity startups to
-    watch in 2021!</strong>"
-  slug: Forbes
-  media:
-    image: "/uploads/2021/01/30/forbes.png"
-    alt_text: ''
-  content: ''
 menu:
   main:
     identifier: home
