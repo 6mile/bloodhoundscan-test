@@ -57,11 +57,15 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  slug: customize
+  slug: assets
   headline: Asset discovery and attack surface mapping
   content: Find and fix vulnerabilities, fast. We identify security and scalability
     gaps in your web applications and offer ways to fix these gaps – without you needing
-    to become a security expert.
+    to become a security expert.<br><br>Developers don't have visibility into what
+    public endpoints are created or required by their applications once deployed.  Bloodhound
+    includes a lightweight implementation of Attack Surface Mapping (ASM) to continuously
+    scan an organizations public assets.  Bloodhound will let you know when something
+    doesn't meet your security or availability requirements before it goes to production.
   media:
     image: "/uploads/2021/01/29/screen-shot-2021-01-29-at-8-10-52-pm.png"
     alt_text: Customize Blocks
