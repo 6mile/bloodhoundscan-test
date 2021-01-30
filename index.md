@@ -18,11 +18,6 @@ page_sections:
   cta:
     url: https://hellhound.securestack.com
     button_text: Scan Now
-- template: detail-content
-  block: text-1
-  headline: Forbes names us as one of the best cybersecurity startups to watch in
-    2021!
-  content: <p><img src="/uploads/2021/01/30/forbes.png"></p>
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -59,6 +54,11 @@ page_sections:
   media:
     image: "/uploads/2021/01/29/ci-cd-graphic.png"
     alt_text: ''
+- template: detail-content
+  block: text-1
+  headline: Forbes names us as one of the best cybersecurity startups to watch in
+    2021!
+  content: <h1><img src="/uploads/2021/01/30/forbes.png"></h1>
 - template: content-feature
   block: feature-1
   media_alignment: Right
