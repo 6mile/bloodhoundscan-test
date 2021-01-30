@@ -13,8 +13,6 @@ page_sections:
     link_text: Features
   - link: https://securestack.com
     link_text: SecureStack
-  - link: "#blocks"
-    link_text: Blocks
   cta:
     url: https://hellhound.securestack.com
     button_text: Scan Now
