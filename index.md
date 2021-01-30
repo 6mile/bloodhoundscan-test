@@ -91,5 +91,10 @@ page_sections:
     title="LinkedIn">LinkedIn</a>
   col_3: ''
   col_4: ''
+menu:
+  main:
+    identifier: home
+    weight: 1
+    title: For Developers
 
 ---

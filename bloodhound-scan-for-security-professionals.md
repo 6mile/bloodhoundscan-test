@@ -91,6 +91,10 @@ page_sections:
     title="LinkedIn">LinkedIn</a>
   col_3: ''
   col_4: ''
+menu:
+  main:
+    weight: 2
+    title: For InfoSec
 published: false
 
 ---
