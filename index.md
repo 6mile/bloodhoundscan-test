@@ -42,7 +42,7 @@ page_sections:
   content: Continuous improvement to help you achieve a faster time to business and
     shrink your app attack surface by up to 70%.
   media:
-    image: "/uploads/2021/01/29/bloodhound_continuous_delivery_banner.png"
+    image: "/uploads/2021/01/30/bloodhound_what_it_does_5circles.png"
     alt_text: Bloodhound Continuous Improvement
 - template: content-feature
   block: feature-1
