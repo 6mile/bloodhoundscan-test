@@ -82,11 +82,11 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: Environments
-  content: 90% of developers don't apply the same security to their dev environment
-    that they do in their prod one.  But if the dev environment is a public asset,
-    don't you want the to be secure too?  Compare your development, staging and production
-    environments to quickly find critical differences and suggests ways to fix high
-    priority defects.
+  content: 90% of developers don't apply the same security to their dev and staging
+    environments that they do in their prod environment.  But if the dev environment
+    is a public asset, don't you want the to be secure too?  Bloodhound automatically
+    compares all your environments to quickly find critical differences and suggests
+    ways to fix high priority defects.
   media:
     image: "/uploads/2021/01/29/screen-shot-2021-01-29-at-8-44-45-pm.png"
     alt_text: ''
