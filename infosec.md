@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/01/29/securestack_word_bloodred-2.png"
   navigation:
+  - link: ''
+    link_text: InfoSec
   - link: "/"
     link_text: Developers
   - link: "#velocity"
