@@ -32,5 +32,6 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- "./bloodhound-scan-for-security-professionals.md"
 - "./infosec.md"
 - index.md
