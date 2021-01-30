@@ -5,11 +5,11 @@ date: 2021-01-30 05:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: ''
+  logo: "/uploads/2021/01/29/securestack_word_bloodred-2.png"
   navigation: []
   cta:
-    url: ''
-    button_text: ''
+    url: https://hellhound.securestack.com
+    button_text: Scan Now
 - template: hero-banner-w-image
   block: hero-2
   background_image: ''
