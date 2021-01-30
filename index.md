@@ -42,6 +42,10 @@ page_sections:
   media:
     image: "/uploads/2021/01/30/bloodhound_what_it_does_5circles.png"
     alt_text: Bloodhound Continuous Improvement
+- template: detail-content
+  block: text-1
+  headline: Developer centric security insights delivered easily
+  content: "<p>Developer centric security insights delivered via API</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
