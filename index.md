@@ -91,6 +91,19 @@ page_sections:
     title="LinkedIn">LinkedIn</a>
   col_3: ''
   col_4: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2021/01/30/forbes.png"
+  headline: Forbes names us as one of the best cybersecurity startups to watch in
+    2021!
+  image:
+    image: ''
+    alt_text: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 menu:
   main:
     identifier: home
