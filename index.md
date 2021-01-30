@@ -11,10 +11,8 @@ page_sections:
     link_text: Home
   - link: "#velocity"
     link_text: Features
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
+  - link: https://securestack.com
+    link_text: SecureStack
   - link: "#blocks"
     link_text: Blocks
   cta:
