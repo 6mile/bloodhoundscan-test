@@ -40,8 +40,8 @@ page_sections:
   content: Continuous improvement to help you achieve a faster time to business and
     shrink your app attack surface by up to 70%.
   media:
-    image: "/uploads/2021/01/30/bloodhound_what_it_does_5circles.png"
-    alt_text: Bloodhound Continuous Improvement
+    image: "/uploads/2021/01/30/bloodhound_5circles.png"
+    alt_text: 5 things Bloodhound does
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -57,13 +57,14 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Forbes names us as one of the best cybersecurity startups to
-    watch in 2021!</strong>"
+  headline: "<strong>Forbes names us one of the best cybersecurity startups to watch
+    in 2021!</strong>"
   slug: Forbes
   media:
     image: "/uploads/2021/01/30/forbes.png"
     alt_text: ''
-  content: ''
+  content: <a href="https://www.forbes.com/sites/louiscolumbus/2020/11/29/the-top-20-cybersecurity-startups-to-watch-in-2021-based-on-crunchbase/?sh=24b197aa6f21"
+    title="Read the Forbes article here">Read the article here</a>
 - template: content-feature
   block: feature-1
   media_alignment: Right
