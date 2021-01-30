@@ -47,6 +47,17 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: Native CI/CD Integration
+  slug: continuous
+  content: Easily embed our unique git-centric tools into your existing development
+    processes.  We support any existing CI/CD workflow. Bloodhound supports Github
+    Actions, Bitbucket Pipelines and any other continuous deployment tool.
+  media:
+    image: "/uploads/2021/01/29/ci-cd-graphic.png"
+    alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
   slug: customize
   headline: Asset discovery and attack surface mapping
   content: Find and fix vulnerabilities, fast. We identify security and scalability
@@ -65,17 +76,6 @@ page_sections:
     image: "/uploads/2021/01/29/screen-shot-2021-01-29-at-8-44-45-pm.png"
     alt_text: ''
   headline: Apply guardrails uniformly
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Native CI/CD Integration
-  slug: continuous
-  content: Easily embed our unique git-centric tools into your existing development
-    processes.  We support any existing CI/CD workflow. Bloodhound supports Github
-    Actions, Bitbucket Pipelines and any other continuous deployment tool.
-  media:
-    image: "/uploads/2021/01/29/ci-cd-graphic.png"
-    alt_text: ''
 - template: signup-bar
   block: cta-bar
   content: ''
