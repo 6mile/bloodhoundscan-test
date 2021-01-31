@@ -27,8 +27,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: ''
-  slug: ''
+  headline: For security professionals that want to collaborate with developer teams
+  slug: infosec1
   content: ''
   media:
     image: ''
