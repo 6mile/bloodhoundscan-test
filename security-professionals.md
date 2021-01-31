@@ -18,7 +18,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  headline: ''
+  headline: For Security Pros!
   content: ''
   cta:
     enabled: false
