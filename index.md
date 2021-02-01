@@ -93,13 +93,6 @@ page_sections:
   block: cta-bar
   content: Contact Us
   email_recipient: support@securestack.com
-- template: 1-column-text
-  block: one-column-1
-  headline: Bloodhound Free Scan
-  slug: freescan
-  content: SecureStack helps you find security &amp; scalability gaps in your web
-    applications and offers ways to fix those gaps without forcing you to become security
-    experts.
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2021/02/01/new_overview_layout.png"
