@@ -117,11 +117,10 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2021/02/01/new_overview_layout.png"
-  headline: Find security and availability issues in your web applications
-  content: SecureStack helps software developers find security &amp; scalability gaps
-    in their web applications and offers ways to fix those gaps without forcing those
-    developers to become security experts. The results are faster time to business
-    and a 60%-70% reduction in the app attack surface.
+  headline: Bloodhound's innovative scanning technology gives you a unique visibility
+  content: SecureStack helps you find security &amp; scalability gaps in your web
+    applications and offers ways to fix those gaps without forcing you to become security
+    experts.
   image:
     image: ''
     alt_text: ''
