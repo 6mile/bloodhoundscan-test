@@ -93,27 +93,6 @@ page_sections:
   block: cta-bar
   content: Contact Us
   email_recipient: support@securestack.com
-- template: 4-column-footer
-  block: footer-2
-  image: "/uploads/2021/01/29/securestack_word_bloodred-1.png"
-  col_2: <a href="Find and fix vulnerabilities, fast. We identify security and scalability
-    gaps in your web applications and offer ways to fix these gaps – without you needing
-    to become a security expert." title="Facebook">Facebook</a><br><a href="https://twitter.com/@securestackco"
-    title="Twitter">Twitter</a><br><a href="https://au.linkedin.com/company/securestack"
-    title="LinkedIn">LinkedIn</a>
-  col_3: ''
-  col_4: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: Bloodhound scans provide a unique visibility into your web application
-  slug: simplescan
-  content: SecureStack helps you find security &amp; scalability gaps in your web
-    applications and offers ways to fix those gaps without forcing you to become security
-    experts. <br><br>
-  media:
-    image: "/uploads/2021/02/01/screen-shot-2021-02-01-at-8-55-58-pm.png"
-    alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2021/02/01/new_overview_layout.png"
@@ -125,9 +104,19 @@ page_sections:
     image: ''
     alt_text: ''
   cta:
-    enabled: false
-    url: ''
-    button_text: ''
+    enabled: true
+    url: https://hellhound.securestack.com
+    button_text: Try a free scan now
+- template: 4-column-footer
+  block: footer-2
+  image: "/uploads/2021/01/29/securestack_word_bloodred-1.png"
+  col_2: <a href="Find and fix vulnerabilities, fast. We identify security and scalability
+    gaps in your web applications and offer ways to fix these gaps – without you needing
+    to become a security expert." title="Facebook">Facebook</a><br><a href="https://twitter.com/@securestackco"
+    title="Twitter">Twitter</a><br><a href="https://au.linkedin.com/company/securestack"
+    title="LinkedIn">LinkedIn</a>
+  col_3: ''
+  col_4: ''
 menu:
   main:
     identifier: home
