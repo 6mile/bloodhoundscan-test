@@ -110,7 +110,7 @@ page_sections:
   slug: ''
   content: ''
   media:
-    image: ''
+    image: "/uploads/2021/02/01/new_overview_layout.png"
     alt_text: ''
 menu:
   main:
