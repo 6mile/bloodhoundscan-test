@@ -103,6 +103,15 @@ page_sections:
     title="LinkedIn">LinkedIn</a>
   col_3: ''
   col_4: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 menu:
   main:
     identifier: home
