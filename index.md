@@ -108,10 +108,9 @@ page_sections:
   media_alignment: Right
   headline: Bloodhound scans provide a unique visibility into your web application
   slug: simplescan
-  content: SecureStack helps software developers find security &amp; scalability gaps
-    in their web applications and offers ways to fix those gaps without forcing those
-    developers to become security experts. The results are faster time to business
-    and a 60%-70% reduction in the app attack surface.
+  content: SecureStack helps you find security &amp; scalability gaps in your web
+    applications and offers ways to fix those gaps without forcing you to become security
+    experts. <br><br>
   media:
     image: "/uploads/2021/02/01/screen-shot-2021-02-01-at-8-55-58-pm.png"
     alt_text: ''
