@@ -7,10 +7,12 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/02/01/bloodhound_2021_word.png"
   navigation:
-  - link: "#simplescan"
-    link_text: Simple Scan
+  - link: "#developers"
+    link_text: Developers
   - link: "/"
     link_text: Home
+  - link: "#simplescan"
+    link_text: Simple Scan
   - link: "#velocity"
     link_text: Features
   - link: https://securestack.com
