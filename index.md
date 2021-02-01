@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2021/01/29/securestack_word_bloodred-2.png"
   navigation:
   - link: "/"
-    link_text: Developers
+    link_text: Home
   - link: "#velocity"
     link_text: Features
   - link: https://securestack.com
