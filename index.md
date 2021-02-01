@@ -91,8 +91,8 @@ page_sections:
   headline: Apply security guardrails across all your dev environments
 - template: signup-bar
   block: cta-bar
-  content: ''
-  email_recipient: ''
+  content: Contact Us
+  email_recipient: support@securestack.com
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2021/01/29/securestack_word_bloodred-1.png"
