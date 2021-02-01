@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/02/01/bloodhound_2021_word.png"
   navigation:
+  - link: "#simplescan"
+    link_text: Simple Scan
   - link: "/"
     link_text: Home
   - link: "#velocity"
