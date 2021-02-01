@@ -113,7 +113,7 @@ page_sections:
     developers to become security experts. The results are faster time to business
     and a 60%-70% reduction in the app attack surface.
   media:
-    image: "/uploads/2021/02/01/new_overview_layout.png"
+    image: "/uploads/2021/02/01/screen-shot-2021-02-01-at-8-55-58-pm.png"
     alt_text: ''
 menu:
   main:
