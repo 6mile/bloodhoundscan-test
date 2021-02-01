@@ -100,7 +100,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2021/02/01/new_overview_layout.png"
-  headline: Bloodhound's innovative scanning technology provides a unique visibility
+  headline: Bloodhound's innovative scanning technology provides unique visibility
   content: SecureStack helps you find security &amp; scalability gaps in your web
     applications and offers ways to fix those gaps without forcing you to become security
     experts.
